@@ -1,0 +1,112 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "b",
+      "request": "launch",
+      "mainClass": "b",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "prac12",
+      "request": "launch",
+      "mainClass": "prac12",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "prac11d",
+      "request": "launch",
+      "mainClass": "prac11d",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "prac11c",
+      "request": "launch",
+      "mainClass": "prac11c",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "prac11b",
+      "request": "launch",
+      "mainClass": "prac11b",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "prac11a",
+      "request": "launch",
+      "mainClass": "prac11a",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "prac10",
+      "request": "launch",
+      "mainClass": "prac10",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "Exception2",
+      "request": "launch",
+      "mainClass": "Exception2",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "AgeExcept",
+      "request": "launch",
+      "mainClass": "AgeExcept",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "prac9b",
+      "request": "launch",
+      "mainClass": "prac9b",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "Prac9a",
+      "request": "launch",
+      "mainClass": "Prac9a",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "Prac8b",
+      "request": "launch",
+      "mainClass": "Prac8b",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Prac_10",
+      "request": "launch",
+      "mainClass": "Prac_10",
+      "projectName": "Java_d8d6f00c"
+    },
+    {
+      "type": "java",
+      "name": "p9a",
+      "request": "launch",
+      "mainClass": "p9a",
+      "projectName": "Java_d8d6f00c"
+    }
+  ]
+}
